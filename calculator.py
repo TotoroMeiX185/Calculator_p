@@ -21,4 +21,3 @@ def displa_menu():
        print("4.Divition")
        print("5.Reset")
        print("6.Exit")
-       
