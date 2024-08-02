@@ -15,3 +15,10 @@ def divide(x,y):
     
 def displa_menu():
        print("Welcome to Calculator") 
+       print("1.Add")
+       print("2.Subtract")
+       print("3.Multifly")
+       print("4.Divition")
+       print("5.Reset")
+       print("6.Exit")
+       
